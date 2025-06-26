@@ -9,7 +9,7 @@ Este repositório contém os materiais e exemplos apresentados durante nossa ses
 ## 📄 Documentação
 
 📥 Baixe os slides da guilda em PDF:  
-👉 [Clique aqui para baixar o PDF](./docs/github-actions-guilda.pdf)
+👉 [Clique aqui para baixar o PDF](./docs/PDF/slidesGuildaGitHubActionsSquadAmsterdam.pdf)
 
 ---
 
